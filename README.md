@@ -5,5 +5,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/qiraxyz/count.svg"></p>
 <hr>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=qiraxyz&show_icons=true&theme=merko"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiraxyz&theme=merko&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=qiraxyz&show_icons=true&theme=merkos"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiraxyz&theme=merkos&layout=compact"></p>
