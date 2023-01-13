@@ -7,5 +7,5 @@
 <p align="center"><img src="https://profile-counter.glitch.me/qiraxyz/count.svg"></p>
 <hr>
 <br>
-<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiraxyz&show_icons=true&theme=gotham"></p>
-<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qiraxyz&theme=gotham&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiraxyz&show_icons=true&theme=synthwave"></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=synthwave&theme=gotham&layout=compact"></p>
