@@ -16,3 +16,7 @@
 <br>
 <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiraxyz&show_icons=true&theme=tokyonight"></p>
 <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qiraxyz&theme=tokyonight&layout=compact"></p>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
