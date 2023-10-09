@@ -1,3 +1,5 @@
+[![An image of @qiraxyz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qiraxyz)](https://holopin.io/@qiraxyz)
+
 <div align="center">
   <h1 style="font-size: 36px;">Hi, I'm Muhamad Ariq Azis Alhafits</h1>
   <p> A passionate Software and Game Developer, currently pursuing my major.</p>
