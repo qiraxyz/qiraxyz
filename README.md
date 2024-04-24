@@ -1,5 +1,5 @@
 
-[![An image of @qiraxyz's Holopin badges, which is a link to view their full Holopin profile](https://qiraquri.000webhostapp.com/balbal.png)](https://holopin.io/@qiraxyz)
+[![An image of @qiraxyz's Holopin badges, which is a link to view their full Holopin profile](https://boards.holopin.io/qiraxyz)](https://holopin.io/@qiraxyz)
 
 <div align="center">
   <h1 style="font-size: 36px;">Hi, I'm Muhamad Ariq Azis Alhafits</h1>
