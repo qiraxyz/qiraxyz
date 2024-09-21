@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 style="font-size: 36px;">Hi, I'm Muhamad Ariq Azis Alhafits</h1>
-  <p> A passionate Software and Game Developer, currently pursuing my major.</p>
+  <p> A passionate Software and DSA LLM (Machine LEarning) Developer, freshgraudate from high school.</p>
   <hr>
   <div style="display: flex; justify-content: center;">
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=qiraxyz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
