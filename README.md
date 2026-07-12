@@ -1,15 +1,125 @@
-
-[![An image of @qiraxyz's Holopin badges, which is a link to view their full Holopin profile](https://boards.holopin.io/qiraxyz)](https://holopin.io/@qiraxyz)
-
 <div align="center">
-  <h1 style="font-size: 36px;">Hi, I'm Muhamad Ariq Azis Alhafits</h1>
-  <p> A passionate Software and DSA LLM (Machine LEarning) Developer, freshgraudate from high school.</p>
-  <hr>
-  <div style="display: flex; justify-content: center;">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=qiraxyz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiraxyz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  </div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=qiraxyz&theme=darcula&hide_border=true&background=FFFFFF00">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Muhamad%20Ariq%20Azis%20Alhafits&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+
+# 👋 Hi, I'm Muhamad Ariq Azis Alhafits
+
+### Software Developer • Machine Learning Enthusiast • Roblox Developer
+
+<p>
+Passionate about building software, Artificial Intelligence, Machine Learning, Backend Development, and creating immersive Roblox experiences.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=qiraxyz&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
-###
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Muhamad Ariq Azis Alhafits
+Username: qiraxyz
+Location: Indonesia
+
+Education:
+  - Fresh Graduate
+
+Interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - Machine Learning
+  - Large Language Models (LLMs)
+  - Backend Development
+  - Roblox Development
+
+Currently Learning:
+  - AI Agents
+  - Computer Vision
+  - Deep Learning
+  - Distributed Systems
+
+Fun Fact:
+  - I enjoy building games, exploring open-source projects, and learning new technologies.
+```
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,lua,cpp,cs,java,js,ts,php" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,codeigniter" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
+
+### AI / Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,blender,figma" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qiraxyz&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎖 Holopin
+
+<div align="center">
+
+[![Holopin Board](https://boards.holopin.io/qiraxyz)](https://holopin.io/@qiraxyz)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/qiraxyz" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-qiraxyz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhamad-ariq-azis/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Muhamad%20Ariq%20Azis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Discord-levemoree-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+
+</div>
