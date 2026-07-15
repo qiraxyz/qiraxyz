@@ -46,37 +46,6 @@ Fun Fact:
 
 ---
 
-# 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,lua,cpp,cs,java,js,ts,php" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,codeigniter" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
-
-### AI / Data Science
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,blender,figma" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
